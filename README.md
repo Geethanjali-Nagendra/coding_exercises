@@ -7,3 +7,7 @@ This Project contains a simple Python programs, I have written to test my unders
     - Generation of random numbers.
     - Set operations to find matching lottery numbers.
     - Loops to iterate through players and conditional logic to track the player with the most matches.
+
+2. fizzbuzz
+    - A program to practice conditional logic and loops
+    - Concepts practiced: for loop, if-elif-else conditional statements
